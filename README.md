@@ -1,4 +1,4 @@
-# Crear QR con Email
+# Crear QR para Email
 
 ¡Hola! Soy [Ryulhu](https://github.com/Ryulhu) y estoy encantado de conocerte.
 
