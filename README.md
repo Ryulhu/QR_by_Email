@@ -1,5 +1,8 @@
 # Crear QR para Email
 
+[![QR-email.png](https://i.postimg.cc/k44W7nTC/QR-email.png)](https://postimg.cc/2qs1wfp9)
+
+
 ¡Hola! Soy [Ryulhu](https://github.com/Ryulhu) y estoy encantado de conocerte.
 
 
